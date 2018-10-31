@@ -6,6 +6,8 @@ author_profile: true
 header:
   image: "/images/SydneyUni.jpg"
 ---
+Welcome to my data science projects
+
 1. Python Programming
 * [Start with Files : csv, txt, image and URL](/python01/)
 * [Exploring the Dataset : Pandas and Numpy](/python02/)
