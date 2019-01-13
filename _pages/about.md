@@ -6,4 +6,6 @@ header:
 ---
 Bienvenue sur ma page
 
-Strong passion about learning, understanding and using data to carve a successful and satisfying career, aiming to directly impact the business with data driven insights.
+Thank you for visiting my page for recent projects on data exploration that I am working on. 
+I am interested in using data analytics tool to get to understand the key drivers in business and products. 
+
