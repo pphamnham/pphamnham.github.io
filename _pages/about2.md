@@ -5,7 +5,7 @@ header:
   image: "/images/opera2.jpg"
 ---
 
-Welcome to my page 
+Welcome to my page
 Bienvenue sur ma page
 
 
