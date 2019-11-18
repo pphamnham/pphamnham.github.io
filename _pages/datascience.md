@@ -19,4 +19,4 @@ Welcome to my data science projects
 * [KNN](/viz02/)
 * [Naive Bayes Classifier](https://github.com/pphamnham/Phu-MachineLearning/blob/master/NaivesBayes_final.ipynb)
 3. Tableau
-* [CO2 Emission] (https://public.tableau.com/views/ExploratorydataanalysisworldC02emission_piechart/Dashboard1?:display_count=y&:origin=viz_share_link)
+* [C02 emission](https://public.tableau.com/views/ExploratorydataanalysisworldC02emission_piechart/Dashboard1?:display_count=y&:origin=viz_share_link)
