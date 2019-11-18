@@ -18,3 +18,5 @@ Welcome to my data science projects
 * [Scatter plots, bar plot and grouped bar plots](/viz01/)
 * [KNN](/viz02/)
 * [Naive Bayes Classifier](https://github.com/pphamnham/Phu-MachineLearning/blob/master/NaivesBayes_final.ipynb)
+3. Tableau
+* [CO2 Emission] (https://public.tableau.com/views/ExploratorydataanalysisworldC02emission_piechart/Dashboard1?:display_count=y&:origin=viz_share_link)
