@@ -20,3 +20,4 @@ Welcome to my data science projects
 * [Naive Bayes Classifier](https://github.com/pphamnham/Phu-MachineLearning/blob/master/NaivesBayes_final.ipynb)
 3. Tableau
 * [C02 emission](https://public.tableau.com/views/ExploratorydataanalysisworldC02emission_piechart/Dashboard1?:display_count=y&:origin=viz_share_link)
+* [Global Banking Overview](https://public.tableau.com/views/Globalbankinglandscape/Dashboard1?:display_count=y&:origin=viz_share_link)
