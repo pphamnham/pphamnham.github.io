@@ -1,7 +1,7 @@
 # main links
 main:
 #  - title: "About Me"
-    url: /about/
+  #  url: /about/
   - title: "Data Science"
     url: /data-science/
   # - title: "About"
