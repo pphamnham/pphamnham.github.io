@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /data-science/
-title: "Data Science Posts"
+title: "Data Science Projects"
 author_profile: true
 header:
   image: "/images/SydneyUni.jpg"
@@ -15,9 +15,8 @@ Welcome to my data science projects
 * [Define a class](/python04/)
 * [Explore US birth](https://github.com/pphamnham/Phu-PythonProject/blob/master/Explore%20US%20Birth.ipynb)
 2. Visualization / Machine Learning
-* [Scatter plots, bar plot and grouped bar plots](/viz01/)
-* [KNN](/viz02/) 
 * [Random Forest](https://github.com/pphamnham/Phu-MachineLearning/blob/master/RandomForest_Final.ipynb)
-
-
-
+* [Logistic Regression](https://github.com/pphamnham/Phu-MachineLearning/blob/master/LogisticRegression_Final.ipynb)
+* [Scatter plots, bar plot and grouped bar plots](/viz01/)
+* [KNN](/viz02/)
+* [Naive Bayes Classifier](https://github.com/pphamnham/Phu-MachineLearning/blob/master/NaivesBayes_final.ipynb)
