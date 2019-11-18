@@ -9,11 +9,9 @@ header:
 Welcome to my data science projects
 
 1. Python Programming
-* [Start with Files : csv, txt, image and URL](/python01/)
-* [Exploring the Dataset : Pandas and Numpy](/python02/)
-* [Error handling](/python03/)
-* [Define a class](/python04/)
 * [Explore US birth](https://github.com/pphamnham/Phu-PythonProject/blob/master/Explore%20US%20Birth.ipynb)
+* [Time Series Project Cotton](https://github.com/pphamnham/Phu-PythonProject/blob/master/Time%20Series%20Project%20Cotton%20-%20Production%20Volume.ipynb)
+* [Analyze Rent Data](https://github.com/pphamnham/Phu-PythonProject/blob/master/analyze_visualize_rent_data.ipynb)
 2. Visualization / Machine Learning
 * [Random Forest](https://github.com/pphamnham/Phu-MachineLearning/blob/master/RandomForest_Final.ipynb)
 * [Logistic Regression](https://github.com/pphamnham/Phu-MachineLearning/blob/master/LogisticRegression_Final.ipynb)
