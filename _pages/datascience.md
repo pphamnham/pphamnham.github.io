@@ -23,3 +23,4 @@ Welcome to my data science projects
 * [Global Banking Overview](https://public.tableau.com/views/Globalbankinglandscape/Dashboard1?:display_count=y&:origin=viz_share_link)
 4. Power BI
 * [US Car Gross Profit by Store](https://app.powerbi.com/reportEmbed?reportId=3af5e8aa-66c8-4704-8a6b-a618b948a4dd&autoAuth=true&ctid=2dfb2f0b-4d21-4268-9559-72926144c918&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLW5vcnRoLWNlbnRyYWwtcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D)
+<iframe width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=3af5e8aa-66c8-4704-8a6b-a618b948a4dd&autoAuth=true&ctid=2dfb2f0b-4d21-4268-9559-72926144c918&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXVzLW5vcnRoLWNlbnRyYWwtcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D" frameborder="0" allowFullScreen="true"></iframe>
